@@ -2,6 +2,8 @@
 
 Working on a fun web project? Ping me if you are looking to collaborate! 👯
 
+Link to my alternate GitHub profile ⚡ https://github.com/gdebojyoti
+
 <!--
 **debojyotighosh/debojyotighosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
