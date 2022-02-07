@@ -1,3 +1,5 @@
+![Debojyoti Ghosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=debojyotighosh&show_icons=true)
+
 ### Howdy! 👋
 
 Working on a fun web project? Ping me if you are looking to collaborate! 👯
